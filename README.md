@@ -1,3 +1,11 @@
+\usepackage{hyperref}
+\hypersetup{hidelinks,
+	colorlinks=true,
+	allcolors=black,
+	pdfstartview=Fit,
+	breaklinks=true}
+
+
 # AwesomeVideoHighlight
 
 ### Dataset

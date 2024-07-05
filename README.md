@@ -1,9 +1,9 @@
 
-# AwesomeVideoHighlight
+# Progress on Video Highlight and Video Summarization
 
 ### Dataset
 
-(Highlight) PHD$^2$
+(Highlight) PHD2
 
 PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation, Ana Garcia del Molino and Michael Gygli, MM2018.
 

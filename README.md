@@ -9,6 +9,12 @@ PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation, Ana Garci
 
 [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240599)] [[code](https://github.com/gifs/personalized-highlights-dataset)]
 
+(Hightlight) Video2GIF
+
+Video2GIF: Automatic Generation of Animated GIFs from Video, Michael Gygli, Yale Song, and Liangliang Cao, CVPR2016
+
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gygli_Video2GIF_Automatic_Generation_CVPR_2016_paper.pdf)] [[code](https://github.com/gyglim/video2gif_dataset)]
+
 (Summarization) TVSum
 
 Tvsum: Summarizing web videos using titles, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
@@ -32,6 +38,10 @@ Creating Summaries from User Videos, Michael Gygli, Helmut Grabner, Hayko Riemen
 Exploring Domain Incremental Video Highlights Detection with the LiveFood Benchmark, Sen Pei, Shixiong Xu, Xiaojie Jin, AAAI2024
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28880)] [[code](https://github.com/ForeverPs/IncrementalVHD_GPE)]
+
+(Summarization) VideoSAGE Video Summarization with Graph Representation Learning, Jose M. Rojas Chaves, Subarna Tripathi, CVPR2024
+
+[[pdf](https://openaccess.thecvf.com/content/CVPR2024W/SG2RL/papers/Chaves_VideoSAGE_Video_Summarization_with_Graph_Representation_Learning_CVPRW_2024_paper.pdf)] [[code](https://github.com/IntelLabs/GraVi-T)]
 
 ### 2023
 

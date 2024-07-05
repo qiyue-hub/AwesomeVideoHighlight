@@ -3,43 +3,40 @@
 
 ### Dataset
 
-(Highlight) PHD^2
-
-Ana Garcia del Molino and Michael Gygli, PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation, MM2018.
-
+(Highlight) PHD$^2$
+PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation, Ana Garcia del Molino and Michael Gygli, MM2018.
 [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240599)] [[code](https://github.com/gifs/personalized-highlights-dataset)]
 
 (Summarization) TVSum
-
-Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, Tvsum: Summarizing web videos using titles, CVPR2015.
-
+Tvsum: Summarizing web videos using titles, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)]
 
 (Highlight) DSH
-
-Min Sun, Ali Farhadi, and Steve Seitz, Ranking Domain-Specific Highlights by Analyzing Edited Videos, ECCV2014.
-
+Ranking Domain-Specific Highlights by Analyzing Edited Videos, Min Sun, Ali Farhadi, and Steve Seitz, ECCV2014.
 [[pdf](http://vigir.ee.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8689/86890787.pdf)] [[code](https://github.com/aliensunmin/DomainSpecificHighlight)]
 
 (Summarization) SumMe
 
-Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, Creating Summaries from User Videos, ECCV2014.
-
+Creating Summaries from User Videos, Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, ECCV2014.
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[code]()]
 
 ### 2024
 
-
+Exploring Domain Incremental Video Highlights Detection with the LiveFood Benchmark, Sen Pei, Shixiong Xu, Xiaojie Jin, AAAI2024
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28880)] [[code](https://github.com/ForeverPs/IncrementalVHD_GPE)]
 
 ### 2023
 
-Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren, Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies, CVPR2023.
-
+Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies, Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren, CVPR2023.
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Gan_Collaborative_Noisy_Label_Cleaner_Learning_Scene-Aware_Trailers_for_Multi-Modal_Highlight_CVPR_2023_paper.pdf)]
+
+### 2022
+
+Show Me What I Like: Detecting User-Specific Video Highlights Using Content-Based Multi-Head Attention, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, and Dinesh Manocha, MM2022
 
 ### 2021
 
-Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, Dinesh Manocha, HighlightMe: Detecting Highlights from Human-Centric Videos, ICCV2021.
+HighlightMe: Detecting Highlights from Human-Centric Videos, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, Dinesh Manocha, ICCV2021.
 
 [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhattacharya_HighlightMe_Detecting_Highlights_From_Human-Centric_Videos_ICCV_2021_paper.pdf)]
 

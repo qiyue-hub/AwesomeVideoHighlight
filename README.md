@@ -35,6 +35,10 @@
 
 ### 2024
 
+**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**, Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou, CVPR2024
+
+[[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[code](https://github.com/RenShuhuai-Andy/TimeChat)]
+
 **Exploring Domain Incremental Video Highlights Detection with the LiveFood Benchmark**, Sen Pei, Shixiong Xu, Xiaojie Jin, AAAI2024
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28880)] [[code](https://github.com/ForeverPs/IncrementalVHD_GPE)]

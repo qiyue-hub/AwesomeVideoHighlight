@@ -65,6 +65,10 @@
 
 [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhattacharya_HighlightMe_Detecting_Highlights_From_Human-Centric_Videos_ICCV_2021_paper.pdf)]
 
+**Detecting Moments and Highlights in Videos via Natural Language Queries**, Jie Lei, Tamara L Berg, Mohit Bansal, NIPS2021.
+
+[[pdf](https://proceedings.neurips.cc/paper/2021/file/62e0973455fd26eb03e91d5741a4a3bb-Paper.pdf)] [[code](https://github.com/jayleicn/moment_detr)]
+
 ### Other Resources
 
 2018. Video Summarization Dataset, Papers, Codes. [[github](https://github.com/robi56/video-summarization-resources)]

@@ -75,6 +75,8 @@
 
 ## Other Resources
 
-2018. Video Summarization Dataset, Papers, Codes. [[github](https://github.com/robi56/video-summarization-resources)]
-2019. Awesome-Video-Summarization. [[github](https://github.com/daicoolb/Awesome-Video-Summarization)]
 2020. Video-summarization. [[github](https://github.com/pujols/Video-summarization)]
+2019. Awesome-Video-Summarization. [[github](https://github.com/daicoolb/Awesome-Video-Summarization)]
+2018. Video Summarization Dataset, Papers, Codes. [[github](https://github.com/robi56/video-summarization-resources)]
+
+

@@ -1,7 +1,7 @@
 
 # Progress on Video Highlight and Video Summarization (and probably Video Caption)
 
-### Dataset
+## Dataset
 
 (Highlight) PHD2
 
@@ -33,7 +33,7 @@
 
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[code]()]
 
-### 2024
+## 2024
 
 **TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**, Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou, CVPR2024
 
@@ -47,13 +47,13 @@
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2024W/SG2RL/papers/Chaves_VideoSAGE_Video_Summarization_with_Graph_Representation_Learning_CVPRW_2024_paper.pdf)] [[code](https://github.com/IntelLabs/GraVi-T)]
 
-### 2023
+## 2023
 
 **Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies**, Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren, CVPR2023.
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Gan_Collaborative_Noisy_Label_Cleaner_Learning_Scene-Aware_Trailers_for_Multi-Modal_Highlight_CVPR_2023_paper.pdf)] [[code](https://github.com/TencentYoutuResearch/HighlightDetection-CLC)]
 
-### 2022
+## 2022
 
 **Show Me What I Like: Detecting User-Specific Video Highlights Using Content-Based Multi-Head Attention**, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, and Dinesh Manocha, MM2022
 
@@ -63,7 +63,7 @@
 
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954146)]
 
-### 2021
+## 2021
 
 **HighlightMe: Detecting Highlights from Human-Centric Videos**, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, Dinesh Manocha, ICCV2021.
 
@@ -73,7 +73,7 @@
 
 [[pdf](https://proceedings.neurips.cc/paper/2021/file/62e0973455fd26eb03e91d5741a4a3bb-Paper.pdf)] [[code](https://github.com/jayleicn/moment_detr)]
 
-### Other Resources
+## Other Resources
 
 2018. Video Summarization Dataset, Papers, Codes. [[github](https://github.com/robi56/video-summarization-resources)]
 2019. Awesome-Video-Summarization. [[github](https://github.com/daicoolb/Awesome-Video-Summarization)]

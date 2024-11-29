@@ -57,6 +57,10 @@
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Gan_Collaborative_Noisy_Label_Cleaner_Learning_Scene-Aware_Trailers_for_Multi-Modal_Highlight_CVPR_2023_paper.pdf)] [[code](https://github.com/TencentYoutuResearch/HighlightDetection-CLC)]
 
+**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**, Bo He, Jun Wang, Jielin Qiu, Trung Bui, Abhinav Shrivastava, Zhaowen Wang, CVPR2023.
+
+[[pdf](https://arxiv.org/pdf/2303.07284)] [[code](https://github.com/boheumd/A2Summ)] [[project](https://boheumd.github.io/A2Summ/)]
+
 ## 2022
 
 **Show Me What I Like: Detecting User-Specific Video Highlights Using Content-Based Multi-Head Attention**, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, and Dinesh Manocha, MM2022
@@ -69,6 +73,10 @@
 
 ## 2021
 
+**Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
+
+[[pdf](https://www.iti.gr/~bmezaris/publications/ism2021a_preprint.pdf)] [[code](https://github.com/e-apostolidis/PGL-SUM)]
+
 **HighlightMe: Detecting Highlights from Human-Centric Videos**, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, Dinesh Manocha, ICCV2021.
 
 [[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Bhattacharya_HighlightMe_Detecting_Highlights_From_Human-Centric_Videos_ICCV_2021_paper.pdf)]
@@ -76,6 +84,12 @@
 **Detecting Moments and Highlights in Videos via Natural Language Queries**, Jie Lei, Tamara L Berg, Mohit Bansal, NIPS2021.
 
 [[pdf](https://proceedings.neurips.cc/paper/2021/file/62e0973455fd26eb03e91d5741a4a3bb-Paper.pdf)] [[code](https://github.com/jayleicn/moment_detr)]
+
+## 2016
+
+**Video Summarization with Long Short-term Memory**, Ke Zhang, Wei-Lun Chao, Fei Sha, Kristen Grauman, ECCV2016.
+
+[[pdf](https://arxiv.org/pdf/1605.08110)] [[code](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)]
 
 ## Other Resources
 

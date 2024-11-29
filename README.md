@@ -19,7 +19,9 @@
 
 **Tvsum: Summarizing web videos using titles**, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
 
-[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)]
+50 videos, avg duration 251.64s~=4min12s, fps~=28
+
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
 
 (Highlight) DSH
 
@@ -31,7 +33,9 @@
 
 **Creating Summaries from User Videos**, Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, ECCV2014.
 
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[code]()]
+25 videos, avg duration 2min40s
+
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
 
 ## 2024
 

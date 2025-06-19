@@ -51,6 +51,10 @@
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2024W/SG2RL/papers/Chaves_VideoSAGE_Video_Summarization_with_Graph_Representation_Learning_CVPRW_2024_paper.pdf)] [[code](https://github.com/IntelLabs/GraVi-T)]
 
+(Summarization) **M3Sum: A Novel Unsupervised Language-guided Video Summarization**, Hongru Wang∗, Baohang Zhou∗, Zhengkun Zhang, Yiming Du, David Ho, Kam-Fai Wong, ICASSP2024
+
+[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447504)] [[code](https://github.com/ZovanZhou/M3Sum)]
+
 ## 2023
 
 **Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies**, Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren, CVPR2023.

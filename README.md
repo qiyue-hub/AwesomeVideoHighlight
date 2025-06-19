@@ -75,7 +75,7 @@
 
 **Clip-it! language-guided video summarization**, Medhini Narasimhan, Anna Rohrbach, Trevor Darrell, NIPS2021.
 
-[[pdf](https://papers.nips.cc/paper_files/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)] [[code][https://github.com/medhini/clip_it]]
+[[pdf](https://papers.nips.cc/paper_files/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)] [[code](https://github.com/medhini/clip_it)]
 
 **Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
 

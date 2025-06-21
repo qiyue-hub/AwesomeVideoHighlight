@@ -19,6 +19,12 @@
 
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
 
+(Summarization) Instruct-V2Xum
+
+**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**, Hang Hua*, Yunlong Tang*, Chenliang Xu, Jiebo Luo, AAAI2025.
+
+30000 videos, 40-940s
+
 (Highlight) PHD2
 
 **PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**, Ana Garcia del Molino and Michael Gygli, MM2018.
@@ -36,6 +42,12 @@
 **Ranking Domain-Specific Highlights by Analyzing Edited Videos**, Min Sun, Ali Farhadi, and Steve Seitz, ECCV2014.
 
 [[pdf](http://vigir.ee.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8689/86890787.pdf)] [[code](https://github.com/aliensunmin/DomainSpecificHighlight)]
+
+## 2025
+
+**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**, Hang Hua*, Yunlong Tang*, Chenliang Xu, Jiebo Luo, AAAI2025.
+
+Summarization; video, text
 
 ## 2024
 

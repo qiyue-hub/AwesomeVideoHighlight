@@ -3,6 +3,22 @@
 
 ## Dataset
 
+(Summarization) TVSum
+
+**Tvsum: Summarizing web videos using titles**, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
+
+50 videos, avg duration 251.64s~=4min12s, fps~=28
+
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
+
+(Summarization) SumMe
+
+**Creating Summaries from User Videos**, Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, ECCV2014.
+
+25 videos, avg duration 2min40s
+
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
+
 (Highlight) PHD2
 
 **PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**, Ana Garcia del Molino and Michael Gygli, MM2018.
@@ -15,31 +31,17 @@
 
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gygli_Video2GIF_Automatic_Generation_CVPR_2016_paper.pdf)] [[code](https://github.com/gyglim/video2gif_dataset)]
 
-(Summarization) TVSum
-
-**Tvsum: Summarizing web videos using titles**, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
-
-50 videos, avg duration 251.64s~=4min12s, fps~=28
-
-[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
-
 (Highlight) DSH
 
 **Ranking Domain-Specific Highlights by Analyzing Edited Videos**, Min Sun, Ali Farhadi, and Steve Seitz, ECCV2014.
 
 [[pdf](http://vigir.ee.missouri.edu/~gdesouza/Research/Conference_CDs/ECCV_2014/papers/8689/86890787.pdf)] [[code](https://github.com/aliensunmin/DomainSpecificHighlight)]
 
-(Summarization) SumMe
-
-**Creating Summaries from User Videos**, Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, ECCV2014.
-
-25 videos, avg duration 2min40s
-
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
-
 ## 2024
 
 **TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**, Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou, CVPR2024
+
+Video Highlight Detection, Temporal Video Grounding, Dense Video Captioning; YouCook2, Charades-STA, QVHighlights; 
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_TimeChat_A_Time-sensitive_Multimodal_Large_Language_Model_for_Long_Video_CVPR_2024_paper.pdf)] [[code](https://github.com/RenShuhuai-Andy/TimeChat)]
 
@@ -47,11 +49,15 @@
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/28880)] [[code](https://github.com/ForeverPs/IncrementalVHD_GPE)]
 
-(Summarization) **VideoSAGE Video Summarization with Graph Representation Learning**, Jose M. Rojas Chaves, Subarna Tripathi, CVPR2024
+**VideoSAGE Video Summarization with Graph Representation Learning**, Jose M. Rojas Chaves, Subarna Tripathi, CVPRW2024
+
+Summarization; Fully-supervised; SumMe, TVSum
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2024W/SG2RL/papers/Chaves_VideoSAGE_Video_Summarization_with_Graph_Representation_Learning_CVPRW_2024_paper.pdf)] [[code](https://github.com/IntelLabs/GraVi-T)]
 
-(Summarization) **M3Sum: A Novel Unsupervised Language-guided Video Summarization**, Hongru Wang∗, Baohang Zhou∗, Zhengkun Zhang, Yiming Du, David Ho, Kam-Fai Wong, ICASSP2024
+**M3Sum: A Novel Unsupervised Language-guided Video Summarization**, Hongru Wang∗, Baohang Zhou∗, Zhengkun Zhang, Yiming Du, David Ho, Kam-Fai Wong, ICASSP2024
+
+Summarization; Unsupervised; SumMe, TVSum; video, text, sound
 
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447504)] [[code](https://github.com/ZovanZhou/M3Sum)]
 
@@ -61,25 +67,51 @@
 
 [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Gan_Collaborative_Noisy_Label_Cleaner_Learning_Scene-Aware_Trailers_for_Multi-Modal_Highlight_CVPR_2023_paper.pdf)] [[code](https://github.com/TencentYoutuResearch/HighlightDetection-CLC)]
 
-**Align and Attend: Multimodal Summarization with Dual Contrastive Losses**, Bo He, Jun Wang, Jielin Qiu, Trung Bui, Abhinav Shrivastava, Zhaowen Wang, CVPR2023.
+**(A2Summ) Align and Attend: Multimodal Summarization with Dual Contrastive Losses**, Bo He, Jun Wang, Jielin Qiu, Trung Bui, Abhinav Shrivastava, Zhaowen Wang, CVPR2023.
+
+Summarization; Supervised; video, text, sound
 
 [[pdf](https://arxiv.org/pdf/2303.07284)] [[code](https://github.com/boheumd/A2Summ)] [[project](https://boheumd.github.io/A2Summ/)]
 
 ## 2022
 
+**(iPTNet) Joint video summarization and moment localization by cross-task sample transfer**, Hao Jiang and Yadong Mu, CVPR2022
+
+Summarization; Supervised
+
 **Show Me What I Like: Detecting User-Specific Video Highlights Using Content-Based Multi-Head Attention**, Uttaran Bhattacharya, Gang Wu, Stefano Petrangeli, Viswanathan Swaminathan, and Dinesh Manocha, MM2022
 
 [[pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3547843)]
 
-(Summarization) **Use of Affective Visual Information for Summarization of Human-Centric Videos**, Berkay Köprü; Engin Erzin, TAC2023
+**Use of Affective Visual Information for Summarization of Human-Centric Videos**, Berkay Köprü, Engin Erzin, TAC2023
+
+Summarization
 
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9954146)]
+
+**Relational reasoning over spatial-temporal graphs for video summarization**, Wencheng Zhu, Yucheng Han, Jiwen Lu, and Jie Zhou, TIP2022
+
+Summarization; Supervised
+
+**Summarizing videos using concentrated attention and considering the uniqueness and diversity of the video frames**， Evlampios Apostolidis, Georgios Balaouras, Vasileios Mezaris, and Ioannis Patras, ICMR2022
+
+Summarization; Unsupervised
+
+**M3l: Languagebased video editing via multi-modal multi-level transformers**, Tsu-Jui Fu, Xin Eric Wang, Scott T Grafton, Miguel P Eckstein, and William Yang Wang, CVPR2022
+
+Edit; video, text
+
+**Unsupervised video summarization via deep reinforcement learning with shotlevel semantics**, Ye Yuan and Jiawan Zhang, TCVST2022.
+
+Summarization; Unsupervised
 
 ## 2021
 
 **Clip-it! language-guided video summarization**, Medhini Narasimhan, Anna Rohrbach, Trevor Darrell, NIPS2021.
 
 [[pdf](https://papers.nips.cc/paper_files/paper/2021/file/7503cfacd12053d309b6bed5c89de212-Paper.pdf)] [[code](https://github.com/medhini/clip_it)]
+
+Summarization; Unsupervised; video, text
 
 **Combining Global and Local Attention with Positional Encoding for Video Summarization**, Evlampios ApostolidisGeorgios Balaouras, Vasileios Mezaris, Ioannis Patras, International Symposium on Multimedia (ISM)2021.
 
@@ -92,6 +124,78 @@
 **Detecting Moments and Highlights in Videos via Natural Language Queries**, Jie Lei, Tamara L Berg, Mohit Bansal, NIPS2021.
 
 [[pdf](https://proceedings.neurips.cc/paper/2021/file/62e0973455fd26eb03e91d5741a4a3bb-Paper.pdf)] [[code](https://github.com/jayleicn/moment_detr)]
+
+**Supervised video summarization via multiple feature sets with parallel attention**, Junaid Ahmed Ghauri, Sherzod Hakimov, and Ralph Ewerth.
+
+Summarization; Supervised
+
+**Reconstructive sequence-graph network for video summarization**, Bin Zhao, Haopeng Li, Xiaoqiang Lu, and Xuelong Li, TPAMI2021.
+
+Summarization; Supervised & Unsupervised
+
+**Dsnet: A flexible detect-to-summarize network for video summarization**, Wencheng Zhu, Jiwen Lu, Jiahao Li, and Jie Zhou, TIP2021
+
+Summarization; Supervised
+
+## 2020
+
+**Sumgraph: Video summarization via recursive graph modeling**, Jungin Park, Jiyoung Lee, Ig-Jae Kim, and Kwanghoon Sohn, ArXiv2020
+
+Summarization; Supervised
+
+**Ac-sum-gan: Connecting actor-critic and generative adversarial networks for unsupervised video summarization**, Evlampios Apostolidis, Eleni Adamantidou, Alexandros I Metsai, Vasileios Mezaris, and Ioannis Patras, TCVST2020
+
+Summarization; Unsupervised
+
+**Unsupervised video summarization via attentiondriven adversarial learning**, Evlampios Apostolidis, Eleni Adamantidou, Alexandros I Metsai, Vasileios Mezaris, and Ioannis Patras, MultiMedia Modeling2020.
+
+Summarization; Unsupervised
+
+## 2019
+
+**Summarizing videos with attention**, Jiri Fajtl, Hajar Sadeghi Sokeh, Vasileios Argyriou, Dorothy Monekosso, and Paolo Remagnino, ACCVW2018.
+
+Summarization; Supervised
+
+**Property-constrained dual learning for video summarization**, Bin Zhao, Xuelong Li, and Xiaoqiang Lu, TNNLS2019.
+
+Summarization; Unsupervised
+
+**Unsupervised video summarization with attentive conditional generative adversarial networks**, Xufeng He, Yang Hua, Tao Song, Zongpu Zhang, Zhengui Xue, Ruhui Ma, Neil Robertson, and Haibing Guan, MM2019
+
+Summarization; Unsupervised
+
+**Enhanced deep video summarization network**, N Gonuguntla, B Mandal, NB Puhan, et al., BMVC2019.
+
+Summarization; Unsupervised
+
+## 2018
+
+**Video summarization with attention-based encoder-decoder network**, Zhong Ji, Kailin Xiong, Yanwei Pang, and Xuelong Li
+
+Summarization; Supervised
+
+**Hsa-rnn: Hierarchical structure-adaptive rnn for video summarization**, Bin Zhao, Xuelong Li, and Xiaoqiang Lu, CVPR2018
+
+Summarization; Supervised
+
+**Discriminative feature learning for unsupervised video summarization**, Yunjae Jung, Donghyeon Cho, Dahun Kim, Sanghyun Woo, and In-So Kweon, ArXiv2018
+
+Summarization; Unsupervised
+
+**Deep reinforcement learning for unsupervised video summarization with diversity-representativeness reward**, Kaiyang Zhou, Yu Qiao, and Tao Xiang
+
+Summarization; Unsupervised
+
+**Video summarization via semantic attended networks**, Huawei Wei, Bingbing Ni, Yichao Yan, Huanyu Yu, Xiaokang Yang, and Chen Yao, AAAI2018
+
+Summarization; Unsupervised
+
+## 2017
+
+**Unsupervised video summarization with adversarial lstm networks**, Behrooz Mahasseni, Michael Lam, and Sinisa Todorovic, CVPR2017.
+
+Summarization; Unsupervised
 
 ## 2016
 

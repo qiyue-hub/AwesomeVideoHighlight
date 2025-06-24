@@ -7,7 +7,7 @@
 
 **Tvsum: Summarizing web videos using titles**, Yale Song, Jordi Vallmitjana, Amanda Stent, and Alejandro Jaimes, CVPR2015.
 
-50 videos, avg duration 251.64s~=4min12s, fps~=28
+50 videos, avg duration 251.64s~=4min12s, fps~=28, (News, documentaries, vlogs)
 
 [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
 
@@ -15,7 +15,7 @@
 
 **Creating Summaries from User Videos**, Michael Gygli, Helmut Grabner, Hayko Riemenschneider, and Luc Van Gool, ECCV2014.
 
-25 videos, avg duration 2min40s
+25 videos, avg duration 2min40s, (Events, holidays, sports)
 
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
 
@@ -23,7 +23,17 @@
 
 **V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**, Hang Hua*, Yunlong Tang*, Chenliang Xu, Jiebo Luo, AAAI2025.
 
-30000 videos, 40-940s
+30000 videos, avg duration 3min3s (183s), duration 40-940s, Open domain, avg text summary length 239 tokens, avg video summary length 30 frames, avg compression ratio 16.39%.
+
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32374)] [[resource](https://huggingface.co/datasets/hhua2/Instruct-V2Xum)] [[homepage](https://hanghuacs.github.io/v2xum/)]
+
+(Summarization) VideoXum
+
+14001 videos, Activities
+
+**VideoXum: Cross-modal Visual and Textural Summarization of Videos**, Lin, Jingyang and Hua, Hang and Chen, Ming and Li, Yikang and Hsiao, Jenhao and Ho, Chiuman and Luo, Jiebo, TMM2023
+
+[[pdf](https://arxiv.org/pdf/2303.12060)] [[resource](https://huggingface.co/datasets/jylins/videoxum)] [[homepage](https://videoxum.github.io/)]
 
 (Highlight) PHD2
 
@@ -48,6 +58,8 @@
 **V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**, Hang Hua*, Yunlong Tang*, Chenliang Xu, Jiebo Luo, AAAI2025.
 
 Summarization; video, text
+
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32374)] [[code](https://github.com/hanghuacs/V2Xum-LLM)] [[homepage](https://hanghuacs.github.io/v2xum/)]
 
 ## 2024
 
@@ -74,6 +86,12 @@ Summarization; Unsupervised; SumMe, TVSum; video, text, sound
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447504)] [[code](https://github.com/ZovanZhou/M3Sum)]
 
 ## 2023
+
+**VideoXum: Cross-modal Visual and Textural Summarization of Videos**, Lin, Jingyang and Hua, Hang and Chen, Ming and Li, Yikang and Hsiao, Jenhao and Ho, Chiuman and Luo, Jiebo, TMM2023
+
+Summarization; Supervised; video, text
+
+[[pdf](https://arxiv.org/pdf/2303.12060)] [[code](https://github.com/jylins/videoxum)] [[homepage](https://videoxum.github.io/)]
 
 **Collaborative Noisy Label Cleaner: Learning Scene-Aware Trailers for Multi-Modal Highlight Detection in Movies**, Bei Gan, Xiujun Shu, Ruizhi Qiao, Haoqian Wu, Keyu Chen, Hanjun Li, Bo Ren, CVPR2023.
 

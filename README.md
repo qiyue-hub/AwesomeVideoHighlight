@@ -35,6 +35,32 @@
 
 [[pdf](https://arxiv.org/pdf/2303.12060)] [[resource](https://huggingface.co/datasets/jylins/videoxum)] [[homepage](https://videoxum.github.io/)]
 
+(V2T Summarization) Shot2Story20K
+
+42958 videos
+
+**Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
+
+[[pdf](https://arxiv.org/pdf/2312.10300)] [[resource](https://mingfei.info/shot2story/)] [[homepage](https://mingfei.info/shot2story/)]
+
+(Summarization) MED Summaries
+
+**Category-specific video summarization**, Danila Potapov, Matthijs Douze, Zaid Harchaoui, and Cordelia Schmid, ECCV2014
+
+[[pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-10599-4_35.pdf)] [[resource](https://lear.inrialpes.fr/people/potapov/med_summaries.php.html)]
+
+(Summarization) QFVS
+
+**Query-Focused Video Summarization: Dataset, Evaluation, and A Memory Network Based Approach**, Sharghi, Aidean and Laurel, Jacob S. and Gong, Boqing, CVPR2017.
+
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf)] [No resource found]
+
+[Summarizaiton2T] MM-AVS
+
+**MM-AVS: A Full-Scale Dataset for Multi-modal Summarization**, Fu, Xiyan and Wang, Jun and Yang, Zhenglu, NAACL2021
+
+[[pdf](https://aclanthology.org/2021.naacl-main.473.pdf)] [[resource](https://github.com/xiyan524/MM-AVS)]
+
 (Highlight) PHD2
 
 **PHD-GIFs: Personalized Highlight Detection for Automatic GIF Creation**, Ana Garcia del Molino and Michael Gygli, MM2018.
@@ -61,6 +87,14 @@ Summarization; video, text
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32374)] [[code](https://github.com/hanghuacs/V2Xum-LLM)] [[homepage](https://hanghuacs.github.io/v2xum/)]
 
+Shot2Story20K
+
+V2T Summarization; video, text
+
+**Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
+
+[[pdf](https://arxiv.org/pdf/2312.10300)] [[resource](https://mingfei.info/shot2story/)] [[homepage](https://mingfei.info/shot2story/)] [[code](https://github.com/bytedance/Shot2Story)]
+
 ## 2024
 
 **TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**, Shuhuai Ren, Linli Yao, Shicheng Li, Xu Sun, Lu Hou, CVPR2024
@@ -84,6 +118,18 @@ Summarization; Fully-supervised; SumMe, TVSum
 Summarization; Unsupervised; SumMe, TVSum; video, text, sound
 
 [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10447504)] [[code](https://github.com/ZovanZhou/M3Sum)]
+
+**Multimodal Video Summarization using Attention based Transformers (MVSAT)**, Kushagra Singh; Pranav R; Pavan Kumar Nuthi; Nikhil Raju Mohite; Mamatha H R, IATMSI2024
+
+Summarization; Supervised; SumMe, TVSum; video, text
+
+[[pdf](https://ieeexplore.ieee.org/document/10503010)]
+
+**Multi-modal Video Summarization**, Jia-Hong Huang, ICMR2024
+
+V2T Summarization
+
+[[pdf](https://dl.acm.org/doi/10.1145/3652583.3657582)]
 
 ## 2023
 
@@ -135,6 +181,14 @@ Edit; video, text
 
 Summarization; Unsupervised
 
+**Multi-modal segment assemblage network for ad video editing with importance-coherence reward**, Tang, Y.; Xu, S.; Wang, T.; Lin, Q.; Lu, Q., ACCV2022.
+
+Summarization; Supervised; segment-level
+
+**Progressive Video Summarization via Multimodal Self-supervised Learning**, Haopeng, L.; Qiuhong, K.; Mingming, G.; and Drummond, T., arXiv2022
+
+Summarization; Self-Supervised
+
 ## 2021
 
 **Clip-it! language-guided video summarization**, Medhini Narasimhan, Anna Rohrbach, Trevor Darrell, NIPS2021.
@@ -167,6 +221,18 @@ Summarization; Supervised & Unsupervised
 
 Summarization; Supervised
 
+**Supervised video summarization via multiple feature sets with parallel attention**, Ghauri, J. A.; Hakimov, S.; and Ewerth, R., ICME2021
+
+Summarization; Supervised
+
+**MM-AVS: A Full-Scale Dataset for Multi-modal Summarization**, Fu, Xiyan and Wang, Jun and Yang, Zhenglu, NAACL2021
+
+Multimodal2T Summarization; Supervised
+
+**Gpt2mvs: Generative pre-trained transformer-2 for multimodal video summarization**, Huang, J.-H.; Murn, L.; Mrak, M.; and Worring, M., ICMR2021
+
+Multimodal Summarization
+
 ## 2020
 
 **Sumgraph: Video summarization via recursive graph modeling**, Jungin Park, Jiyoung Lee, Ig-Jae Kim, and Kwanghoon Sohn, ArXiv2020
@@ -180,6 +246,18 @@ Summarization; Unsupervised
 **Unsupervised video summarization via attentiondriven adversarial learning**, Evlampios Apostolidis, Eleni Adamantidou, Alexandros I Metsai, Vasileios Mezaris, and Ioannis Patras, MultiMedia Modeling2020.
 
 Summarization; Unsupervised
+
+**Transforming Multi-Concept Attention into Video Summarization**, Yen-Ting Liu, Yu-Jhe Li, Yu-Chiang Frank Wang, ACCV2020.
+
+Summarization; Supervised
+
+[[pdf](https://openaccess.thecvf.com/content/ACCV2020/papers/Liu_Transforming_Multi-Concept_Attention_into_Video_Summarization_ACCV_2020_paper.pdf)]
+
+**Multi-modal Summarization for Video-containing Documents**, Xiyan Fu, Jun Wang, Zhenglu Yang, arXiv2020
+
+Summarization; Supervised
+
+[[pdf](https://arxiv.org/pdf/2009.08018)]
 
 ## 2019
 
@@ -199,11 +277,19 @@ Summarization; Unsupervised
 
 Summarization; Unsupervised
 
-## 2018
-
-**Video summarization with attention-based encoder-decoder network**, Zhong Ji, Kailin Xiong, Yanwei Pang, and Xuelong Li
+**Stacked memory network for video summarization**, Wang, J.; Wang, W.; Wang, Z.; Wang, L.; Feng, D.; and Tan, T., MM2019
 
 Summarization; Supervised
+
+**Video summarization with attention-based encoder–decoder networks**, Zhong Ji, Kailin Xiong, Yanwei Pang, and Xuelong Li, ITCSVT2019
+
+Summarization; Supervised; shot-level
+
+**Susinet: See, understand and summarize it**, Koutras, P.; and Maragos, P., CVPRW2019
+
+Summarization; Supervised; Segment-level
+
+## 2018
 
 **Hsa-rnn: Hierarchical structure-adaptive rnn for video summarization**, Bin Zhao, Xuelong Li, and Xiaoqiang Lu, CVPR2018
 
@@ -221,11 +307,29 @@ Summarization; Unsupervised
 
 Summarization; Unsupervised
 
+**Extractive video summarizer with memory augmented neural networks**, Feng, L.; Li, Z.; Kuang, Z.; and Zhang, W, MM2018
+
+Summarization; Supervised; shot-level
+
+**Retrospective encoders for video summarization**, Zhang, K.; Grauman, K.; and Sha, F., ECCV2018.
+
+Summarization; Supervised; shot-level
+
 ## 2017
 
 **Unsupervised video summarization with adversarial lstm networks**, Behrooz Mahasseni, Michael Lam, and Sinisa Todorovic, CVPR2017.
 
 Summarization; Unsupervised
+
+**Query-Focused Video Summarization: Dataset, Evaluation, and A Memory Network Based Approach**, Sharghi, Aidean and Laurel, Jacob S. and Gong, Boqing, CVPR2017.
+
+Summarization
+
+[[pdf](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sharghi_Query-Focused_Video_Summarization_CVPR_2017_paper.pdf)]
+
+**Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video**, Haoran Li, Junnan Zhu, Cong Ma, Jiajun Zhang, Chengqing Zong, EMNLP2017
+
+Multimodal2T Summarization
 
 ## 2016
 

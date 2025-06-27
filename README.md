@@ -87,11 +87,15 @@ Summarization; video, text
 
 [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/32374)] [[code](https://github.com/hanghuacs/V2Xum-LLM)] [[homepage](https://hanghuacs.github.io/v2xum/)]
 
-Shot2Story20K
+**Hybrid Siamese Masked Autoencoders as Unsupervised Video Summarizer**, Yifei Xu; Zaiqiang Wu; Li Li; Siqi Li; Wenlong Li; Mingqi Li, TCSVT2025
 
-V2T Summarization; video, text
+Summarization; Unsupervised
+
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10947580)] [[code](https://github.com/wzq0214/H-SMAE)]
 
 **Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
+
+V2T Summarization; video, text
 
 [[pdf](https://arxiv.org/pdf/2312.10300)] [[resource](https://mingfei.info/shot2story/)] [[homepage](https://mingfei.info/shot2story/)] [[code](https://github.com/bytedance/Shot2Story)]
 
@@ -124,6 +128,12 @@ Summarization; Unsupervised; SumMe, TVSum; video, text, sound
 Summarization; Supervised; SumMe, TVSum; video, text
 
 [[pdf](https://ieeexplore.ieee.org/document/10503010)]
+
+**Language-Guided Self-Supervised Video Summarization Using Text Semantic Matching Considering the Diversity of the Video**, T Sugihara, S Masuda, L Xiao, T Yamasaki, MMASIA2024
+
+Summarization; Self-supervised; SumMe; vodeo, text
+
+[[pdf](https://dl.acm.org/doi/pdf/10.1145/3696409.3700273)] [[code](https://github.com/sugitomoo/PDL)]
 
 **Multi-modal Video Summarization**, Jia-Hong Huang, ICMR2024
 

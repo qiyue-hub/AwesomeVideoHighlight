@@ -195,6 +195,10 @@ Summarization; Supervised; video, text, sound
 
 [[pdf](https://arxiv.org/pdf/2303.07284)] [[code](https://github.com/boheumd/A2Summ)] [[project](https://boheumd.github.io/A2Summ/)]
 
+**Self-Supervised Adversarial Video Summarizer With Context Latent Sequence Learning**, Yifei Xu , Xiangshun Li, Litong Pan, Weiguang Sang, Pingping Wei, and Li Zhu, TCSVT2023.
+
+Summarization; Unsupervised
+
 ## 2022
 
 **(iPTNet) Joint video summarization and moment localization by cross-task sample transfer**, Hao Jiang and Yadong Mu, CVPR2022

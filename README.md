@@ -117,6 +117,12 @@ Summarization; Supervised; SumMe, TVSum
 
 Summarization; Supervised; TVSum, BLiSS, Mr.HiSum
 
+**CMFF_VS: A Video Summarization Extraction Model based on Cross-modal Feature Fusion**, Chaoqun Xin, Mingyang Wang & Xianhao Zhao, CECS2025
+
+Summarization; Supervised; SumMe, TVSum, Daily_Mail and BLiSS; video, text
+
+[[pdf](https://link.springer.com/article/10.1007/s13369-025-10133-w)]
+
 **Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
 
 V2T Summarization; video, text

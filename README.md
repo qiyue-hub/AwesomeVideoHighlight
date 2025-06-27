@@ -93,6 +93,30 @@ Summarization; Unsupervised
 
 [[pdf](https://ieeexplore.ieee.org/abstract/document/10947580)] [[code](https://github.com/wzq0214/H-SMAE)]
 
+**Capturing spatiotemporal dependencies with competitive set attention for video summarization**, Md Hasnat Hosen Arafat & Kavinder Singh, VisualComputer2025
+
+Summarization; Supervised
+
+[[pdf](https://link.springer.com/article/10.1007/s00371-025-03865-1)] [[code](https://github.com/ara-47/STSA)] [[dataset](https://drive.google.com/drive/folders/1KTpftiMchP0q-pdcJ4K7HaARJloOwQA6?usp=sharing)]
+
+**Training-Free Language-Guided Video Summarization via Multi-Grained Saliency Scoring**, Wei Ge, Yongwei Nie, Fei Ma, Keke Tang, Fei Richard Yu, Hongmin Cai & Ping Li, CVM2025
+
+Summarization; Unupervised
+
+[[pdf](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_6)] 
+
+**QANet: quaternion attention network for video summarization**, Vaani Garg, Anil Singh Parihar, JEI2025
+
+[[pdf](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-34/issue-2/023028/QANet-quaternion-attention-network-for-video-summarization/10.1117/1.JEI.34.2.023028.short)]
+
+Summarization; Supervised; SumMe, TVSum
+
+**HierSum: A Global and Local Attention Mechanism for Video Summarization**, 
+
+[[pdf](https://arxiv.org/pdf/2504.18689)] [code will be released]
+
+Summarization; Supervised; TVSum, BLiSS, Mr.HiSum
+
 **Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
 
 V2T Summarization; video, text

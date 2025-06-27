@@ -103,7 +103,7 @@ Summarization; Supervised
 
 Summarization; Unupervised
 
-[[pdf](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_6)] 
+[[pdf](https://link.springer.com/chapter/10.1007/978-981-96-5815-2_6)] [[code](https://github.com/scut-201930340437/language-guided-video-summarization-with-LLM)]
 
 **QANet: quaternion attention network for video summarization**, Vaani Garg, Anil Singh Parihar, JEI2025
 
@@ -122,6 +122,12 @@ Summarization; Supervised; TVSum, BLiSS, Mr.HiSum
 Summarization; Supervised; SumMe, TVSum, Daily_Mail and BLiSS; video, text
 
 [[pdf](https://link.springer.com/article/10.1007/s13369-025-10133-w)]
+
+**Prompts to Summaries: Zero-Shot Language-Guided Video Summarization**, Mario Barbara, Alaa Maalouf, arXiv2025
+
+Summarization; Unsupervised; SumMe, TVSum, Daily_Mail and BLiSS; video, text
+
+[[pdf](http://arxiv.org/pdf/2506.10807)] [[code](https://github.com/mario998-hash/ZeroShotVideoSummary)]
 
 **Shot2Story20K: A New Benchmark for Comprehensive Understanding of Multi-shot Videos**, Mingfei Han, Linjie Yang, Xiaojun Chang, Lina Yao, Heng Wang, ICLR2025
 

@@ -9,7 +9,7 @@
 
 50 videos, avg duration 251.64s~=4min12s, fps~=28, (News, documentaries, vlogs)
 
-[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
+[[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)] [[code](https://github.com/yalesong/tvsum)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ (original from [[Category-specific-videosummarization](https://github.com/kezhang-cs/Video-Summarization-with-LSTM?tab=readme-ov-file)])]
 
 (Summarization) SumMe
 
@@ -17,7 +17,7 @@
 
 25 videos, avg duration 2min40s, (Events, holidays, sports)
 
-[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ]
+[[pdf](https://link.springer.com/chapter/10.1007/978-3-319-10584-0_33)] [[resource](https://drive.google.com/drive/folders/1rqXEIelRzq4mb7NaBk3GXxh7jlfP_Snm) by A2Summ (original from [[Category-specific-videosummarization](https://github.com/kezhang-cs/Video-Summarization-with-LSTM?tab=readme-ov-file)]
 
 (Summarization) Instruct-V2Xum
 
@@ -386,6 +386,14 @@ Multimodal2T Summarization
 **Video Summarization with Long Short-term Memory**, Ke Zhang, Wei-Lun Chao, Fei Sha, Kristen Grauman, ECCV2016.
 
 [[pdf](https://arxiv.org/pdf/1605.08110)] [[code](https://github.com/kezhang-cs/Video-Summarization-with-LSTM)]
+
+## 2014
+
+**(KTS/KVS) Category-specific video summarization**, Danila Potapov, Matthijs Douze, Zaid Harchaoui, Cordelia Schmid, ECCV2014
+
+Summarization, MED-Summaries
+
+[[pdf](https://inria.hal.science/hal-01022967/PDF/video_summarization.pdf)] [code not available]
 
 ## Other Resources
 
